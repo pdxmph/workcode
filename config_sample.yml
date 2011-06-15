@@ -1,0 +1,5 @@
+mail_chimp:
+    api_key: your-mailchimp-api-key
+
+nl_backend:
+    nl_base_url: the_source_url_for_html
