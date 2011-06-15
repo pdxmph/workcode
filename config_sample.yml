@@ -3,3 +3,50 @@ mail_chimp:
 
 nl_backend:
     nl_base_url: the_source_url_for_html
+    
+sites:
+
+    My Venture Pad: 
+        url: myventurepad.com
+        abbrev: MVP
+        blogger_nl: true
+
+    Sustainable Business Forum: 
+        url: sustainablebusinessforum.com
+        abbrev: SBF
+        blogger_nl: true
+
+    Sustainable Cities Collective: 
+        url: sustainablecitiescollective.com
+        abbrev: SCC
+        blogger_nl: true
+
+    Smart Data Collective: 
+        url: smartdatacollective.com
+        abbrev: SDC
+        blogger_nl: true
+
+    The Customer Collective: 
+        url: thecustomercollective.com
+        abbrev: TCC
+        blogger_nl: true
+
+    The Social Customer: 
+        url: thesocialcustomer.com
+        abbrev: TSC
+        blogger_nl: true
+
+    The Energy Collective: 
+        url: theenergycollective.com
+        abbrev: TEC
+        blogger_nl: true
+
+    Social Media Today: 
+        url: socialmediatoday.com
+        abbrev: SMT
+        blogger_nl: true
+
+    Governing People: 
+        url: governingpeople.com
+        abbrev: GOV
+        blogger_nl: false
